@@ -4,10 +4,10 @@ Task 1 - Network Scanning and Reconnaissance using Nmap
 
 ## Student Details
 
-Name:Jagadeeshan A
-USN:24BTLCC002
-University:Jain University Faculty of Engineering and Technology
-Department:Computer Science Engineering (Cyber Security)
+Name: Jagadeeshan A
+USN: 24BTLCC002
+University: Jain University Faculty of Engineering and Technology
+Department: Computer Science Engineering (Cyber Security)
 
 
 ## Objective
